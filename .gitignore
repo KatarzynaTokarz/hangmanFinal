@@ -30,3 +30,27 @@
 *.exe
 *.out
 *.app
+
+#Visual Studio
+
+x64/
+x86/
+*.vcxproj
+*.filters
+*.user
+*.sln
+*.vs/
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
